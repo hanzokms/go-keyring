@@ -1,4 +1,4 @@
-module github.com/zalando/go-keyring
+module github.com/hanzokms/go-keyring
 
 go 1.18
 
